@@ -3,4 +3,4 @@
 srcdir = "/opt/Programs/buildroot-at91"
 
 # Location of the output directory
-builddir = "/opt/Programs/buildroot-at91/output/"
+builddir = "/opt/Programs/buildroot-runtime-test/output/"
