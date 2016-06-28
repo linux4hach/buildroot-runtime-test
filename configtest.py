@@ -1,6 +1,6 @@
 
 # Location of the Buildroot source code
-srcdir = "/home/thomas/projets/buildroot"
+srcdir = "/opt/Programs/buildroot-at91"
 
 # Location of the output directory
-builddir = "/home/thomas/projets/outputs/"
+builddir = "/opt/Programs/buildroot-at91/output/"
